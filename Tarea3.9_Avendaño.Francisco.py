@@ -23,3 +23,9 @@ print(f"Cumulante de cuarto orden: {cumulante_4:.6f}")
 # Mientras que para este caso especifico,
 # al ser una distribución normal, la kurtosis tiende a 0, 
 # esto quiere decir, que cumulante 4 tiende a 0 too.
+
+
+#Nota: 70
+#No tienden a 0,
+#Como el tercer cumulante es asimétrico bajo esa transformación, debe ser cero.
+#Esto no nos permite concluir nada sobre el cuarto cumulante

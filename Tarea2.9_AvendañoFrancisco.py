@@ -16,6 +16,8 @@ p_total = p_sick_true_rash/p_rash_total
 
 print('La probabilidad que haya tenido la enfermedad si tiene manchas rojas es de', p_total)
 
+#NOTA: 70, favor mandar las tareas en formato ipynb
+
 
 
 
